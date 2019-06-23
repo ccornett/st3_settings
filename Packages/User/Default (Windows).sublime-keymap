@@ -1,0 +1,21 @@
+[
+	// Map 'jj' to exit VIM mode 
+	{
+        "keys": ["j", "k"],
+        "command": "_enter_normal_mode",
+        "args": {
+            "mode": "mode_insert"
+        },
+        "context": [{"key": "vi_insert_mode_aware"}]
+    },
+
+    // Map 'ctrl + [' to exit VIM mode
+    {
+        "keys": ["ctrl+["],
+        "command": "_enter_normal_mode",
+        "args": {
+            "mode": "mode_insert"
+        },
+        "context": [{"key": "vi_insert_mode_aware"}]
+    }
+]

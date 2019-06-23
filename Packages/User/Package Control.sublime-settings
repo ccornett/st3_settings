@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"A File Icon",
+		"Agila Theme",
+		"ayu",
+		"CFML",
+		"gruvbox",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Materialize",
+		"Monokai++",
+		"NeoVintageous",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Predawn",
+		"RailsCasts Colour Scheme",
+		"SublimeLinter-contrib-nvc",
+		"SVNCommit",
+		"Visual Studio Dark",
+		"Vue Syntax Highlight",
+		"Wolf Theme"
+	],
+	"repositories":
+	[
+		"https://github.com/LordBrom/SVNCommit",
+		"https://github.com/LordBrom/SVNCommit"
+	]
+}
