@@ -766,7 +766,59 @@
 				<key>foreground</key>
 				<string>#8BB664</string>
 			</dict>
-		</dict>		
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>variable.function.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#DAD085</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>support.function.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#dad085</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>variable.language.scope.cfml, variable.language.this.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#68A9EB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>meta.block.cfml, meta.sequence.cfml, punctuation.section.block.begin.cfml, punctuation.section.block.end.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E0C589</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>CB722452-7FCF-4F03-B54B-CCBA510F48C6</string>
