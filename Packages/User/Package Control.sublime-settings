@@ -12,8 +12,10 @@
 		"ayu",
 		"BracketHighlighter",
 		"CFML",
+		"ColorSchemeEditor",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Enhanced HTML and CFML",
 		"GitGutter",
 		"gruvbox",
 		"MarkdownEditing",
@@ -24,6 +26,7 @@
 		"NeoVintageous",
 		"One Dark Color Scheme",
 		"One Dark Material - Theme",
+		"Origami",
 		"Package Control",
 		"Predawn",
 		"RailsCasts Colour Scheme",
@@ -31,6 +34,7 @@
 		"SVNCommit",
 		"Visual Studio Dark",
 		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
 		"Wolf Theme"
 	],
 	"repositories":

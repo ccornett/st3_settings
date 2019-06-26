@@ -89,7 +89,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#99CF50</string>
+				<string>#8BB664</string>
 			</dict>
 		</dict>
 		<dict>
@@ -702,6 +702,71 @@
 				<string>#751012</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Storage</string>
+			<key>scope</key>
+			<string>storage.modifier.extends.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E0C589</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Component Storage</string>
+			<key>scope</key>
+			<string>storage.type.class.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E0C589</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Function Storage</string>
+			<key>scope</key>
+			<string>storage.type.function.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E0C589</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>entity.other.inherited-class.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#8BB664</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>entity.name.function.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#8BB664</string>
+			</dict>
+		</dict>		
 	</array>
 	<key>uuid</key>
 	<string>CB722452-7FCF-4F03-B54B-CCBA510F48C6</string>
