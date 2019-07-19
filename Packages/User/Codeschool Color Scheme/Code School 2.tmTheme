@@ -810,13 +810,130 @@
 			<key>name</key>
 			<string>CFML - Inherited Class</string>
 			<key>scope</key>
-			<string>meta.block.cfml, meta.sequence.cfml, punctuation.section.block.begin.cfml, punctuation.section.block.end.cfml</string>
+			<string>punctuation.definition.template-expression.begin.cfml, punctuation.definition.template-expression.end.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E9C062</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#DAD085</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>support.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#DAD085</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>storage.type.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E5AD94F5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>storage.type.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E5AD94F5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>variable.other.dollar.only.js punctuation.dollar.js, punctuation.section.group.begin.js, punctuation.section.group.end.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#DAD085</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>variable.other.dollar.js punctuation.dollar.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#BCDBFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFML - Inherited Class</string>
+			<key>scope</key>
+			<string>variable.other.readwrite.js, variable.other.dollar.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#F0F0F0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Meta.tag.inline</string>
+			<key>scope</key>
+			<string>entity.name.tag.cfml</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
 				<string>#E0C589</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>✘ Meta.tag.inline</string>
+			<key>scope</key>
+			<string>meta.property.cfml, variable.other.readwrite.cfml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#BCDBFF</string>
 			</dict>
 		</dict>
 	</array>
